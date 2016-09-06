@@ -9,5 +9,5 @@ app.use('/selectdine_api/v1', require('./api_restaurants')(wagner));
 app.use('/selectdine_api/v1', require('./api_categories')(wagner));
 app.use('/selectdine_api/v1', require('./api_users')(wagner));
 
- app.listen(3000);
+ app.listen(80);
  console.log('Listening on port 3000!');
