@@ -1,0 +1,35 @@
+{
+  "name": "SelectDine",
+  "version": "1.0.0",
+  "description": "SelectDine Project",
+  "main": "sample.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/harshvit/sample.git"
+  },
+  "dependencies": {
+    "mongodb": "~2.0"
+  },
+  "author": "Harshith HM",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "http://localhost"
+  },
+  "dependencies": {
+    "body-parser":"1.12.4",
+    "passport": "0.2.2",
+    "passport-facebook": "2.0.0",
+    "mongoose-hidden": "0.6.3",
+    "body-parser": "1.12.4",
+    "express": "4.12.3",
+    "express-session": "1.11.2",
+    "http-status": "0.1.8",
+    "mongoose": "4.0.3",
+    "passport": "0.2.2",
+    "passport-facebook": "2.0.0",
+    "stripe": "3.3.4",
+    "underscore": "1.5.2",
+    "wagner-core": "0.1.0"
+  },
+"homepage": "https://github.com/harshvit"
+}
